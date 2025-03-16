@@ -1,0 +1,7 @@
+Id: SeriesCleaner
+Name: Series Cleaner
+Author: Katsopolis
+Version: 1.0.0
+Module: SeriesCleaner.dll
+Type: GenericPlugin
+Icon: icon.png
