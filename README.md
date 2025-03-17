@@ -17,6 +17,9 @@ A simple Playnite extension that cleans your library by removing series metadata
 - Click `Clean Single-Game Series`.
 - Confirm the removal of detected series.
 
+## 🖼️ SS's
+![Alt text](images/screenshot1.png?raw=true "Optional Title")
+
 ## ⚠️ Disclaimer
 **Always backup your Playnite database before using.**  
 The author is not responsible for accidental loss of metadata.
