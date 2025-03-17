@@ -1,9 +1,0 @@
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\bin\Debug\SeriesCleaner.dll
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\bin\Debug\SeriesCleaner.pdb
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\bin\Debug\Playnite.SDK.dll
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\bin\Debug\Playnite.SDK.xml
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\obj\Debug\SeriesCleaner.csproj.AssemblyReference.cache
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\obj\Debug\SeriesCleaner.csproj.CoreCompileInputs.cache
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\obj\Debug\SeriesCl.CF84C1C1.Up2Date
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\obj\Debug\SeriesCleaner.dll
-C:\Users\Bilal\source\repos\SeriesCleaner\SeriesCleaner\obj\Debug\SeriesCleaner.pdb
