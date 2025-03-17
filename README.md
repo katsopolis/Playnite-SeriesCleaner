@@ -18,7 +18,8 @@ A simple Playnite extension that cleans your library by removing series metadata
 - Confirm the removal of detected series.
 
 ## 🖼️ SS's
-![Alt text](images/screenshot1.png?raw=true "Optional Title")
+![Alt text](images/screenshot1.png?raw=true "From Main Menu")
+![Alt text](images/screenshot2.png?raw=true "After Clicking")
 
 ## ⚠️ Disclaimer
 **Always backup your Playnite database before using.**  
