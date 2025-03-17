@@ -1,4 +1,4 @@
-# Playnite-SeriesCleaner
+# <img src="sources/icon.png" width="35" height="35"/> Playnite-SeriesCleaner
 
 ## 🚀 What's this extension?
 A simple Playnite extension that cleans your library by removing series metadata from games which are the only entry in their series.
