@@ -1,5 +1,17 @@
+## Visual Studio
 bin/
 obj/
 *.user
 *.suo
-*.vs/
+.vs/
+
+## Build outputs
+*.dll
+*.pdb
+!sources/*.dll
+!sources/*.pdb
+
+## OS
+.DS_Store
+Thumbs.db
+
